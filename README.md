@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/apple._stackz
-[linkedin]: https://linkedin.com/in/GabriellaGerena
+[linkedin]: https://www.linkedin.com/in/gabriella-gerena/
